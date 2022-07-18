@@ -1,4 +1,5 @@
-# Forecasting supply chain costs: Time-series modelling using ARIMA
+# Forecasting supply chain costs:
+# Time-series modelling using ARIMA
 I spent a semester working as a Student Data Scientist at Apple. This is the project that I worked on, which resulted in cost savings of $20 million yearly.
 - Designed desktop application that uses ARIMA models to detect cost errors.
 - Created interactive Tableau dashboards depicting costs across components and time.
