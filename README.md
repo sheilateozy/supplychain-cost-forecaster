@@ -21,7 +21,7 @@ Cost that Apple paid for each component part in each month. The data covers 768 
 
 ## Methodology
 1. Remove outliers in data to discard noise. Next, simulate data for component parts with lesser cost history data using a normal distribution with the same mean and variance as the available data.
-   <img class="img-fluid" src="assets/images/portfolio/apple/data_simulation.png">
+!https://github.com/sheilateozy/Apple_Forecasting-Supply-Chain-Costs/blob/main/readme_images/desktop_application.png
 
 2. Build one ARIMA model for each component part's cost. As such, 768 models are trained. For each model, grid search for its optimal ARIMA (p, d, q) hyperparameters, determined by lowest MAPE on left-out test set.
 
