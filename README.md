@@ -7,7 +7,7 @@ I spent a semester working as a Student Data Scientist at Apple. This is the pro
 # Motivation
 Apple purchases components parts for its products from third party suppliers. The prices of these parts can be volatile at times due to trends and seasonalities, which snowballs into significant supply chain cost impacts.
 
-This project uses time-series modelling to predict a reasonable cost range for hundreds of parts in each month. This informtion is used to flag warnings when the real-time cost of a part is outside of this range. It can also be used on an ex-ante basis to negotiate future part costs with suppliers.
+This project uses ARIMA models to predict a reasonable cost range for hundreds of parts in each month. This informtion is used to flag warnings when the real-time cost of a part is outside of this range. It can also be used on an ex-ante basis to negotiate future part costs with suppliers.
 
 
 # Results: <0.1% Mean Absolute Percentage Error
