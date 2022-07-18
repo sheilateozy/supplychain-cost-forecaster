@@ -1,4 +1,4 @@
-<h1> Forecasting supply chain costs<br>Time-series modelling using ARIMA: < 0.1% MAPE </h1>
+<h1> Forecasting Apple's supply chain costs<br>Time-series modelling using ARIMA: < 0.1% MAPE </h1>
 I spent a semester working as a Student Data Scientist at Apple. 
 <br><br>This is the project that I worked on, which resulted in cost savings of $20 million yearly.
 <li> Designed desktop application that uses ARIMA models to predict cost and detect errors.
