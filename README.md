@@ -1,8 +1,8 @@
 <h1> Forecasting supply chain costs<br>Time-series modelling using ARIMA: < 0.1% MAPE </h1>
 I spent a semester working as a Student Data Scientist at Apple. 
-This is the project that I worked on, which resulted in cost savings of $20 million yearly.
-- Designed desktop application that uses ARIMA models to detect cost errors.
-- Created interactive Tableau dashboards depicting costs across components and time.
+<br>This is the project that I worked on, which resulted in cost savings of $20 million yearly.
+<li> Designed desktop application that uses ARIMA models to detect cost errors.
+<li> Created interactive Tableau dashboards depicting costs across components and time.
  
 # About
 Apple purchases components parts for its products from third party suppliers. The prices of these parts can be volatile at times due to trends and seasonalities, which snowballs into significant supply chain cost impacts.
