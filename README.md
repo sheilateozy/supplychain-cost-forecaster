@@ -12,7 +12,7 @@ This project uses time-series modelling to predict a reasonable cost range for h
 
 ## Results: <0.1% Mean Absolute Percentage Error
 These models work in the back-end of the desktop application:
-![desktop application](https://github.com/sheilateozy/Apple_Forecasting-Supply-Chain-Costs/blob/main/readme_images/desktop_application.png)
+<img src="readme_images/desktop_application.png" width="200">
 
 
 ## Data
