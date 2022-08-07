@@ -22,7 +22,7 @@ This can be used in real-time to catch areas in which Apple may be overpaying in
 Cost that Apple paid for each component part in each month. The data covers 768 component parts across multiple years.
 
 
-# Methodology
+# Project Methodology
 1. Remove outliers in data to discard noise. Next, simulate data for component parts with lesser cost history data using a normal distribution with the same mean and variance as the available data.
 <img src="readme_images/data_simulation.png" width="650">
 
