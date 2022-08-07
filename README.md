@@ -32,5 +32,9 @@ Cost that Apple paid for each component part in each month. The data covers 768 
 <img src="readme_images/prediction.png" width="650">
 
 
+# Still curious?
+Check out this project on my website <a href="_____">here</a> :)
+
+
 
 
