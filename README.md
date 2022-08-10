@@ -1,5 +1,5 @@
 # Forecasting Apple's supply chain costs
-## Built ARIMA time-series models with < 0.1% MAPE
+## Using ARIMA
 
 I worked as a Student Data Scientist at Apple, in a team of 5 students from Columbia Engineering.
 <br><br>This is the project that we worked on, which resulted in cost savings of $20 million yearly.
